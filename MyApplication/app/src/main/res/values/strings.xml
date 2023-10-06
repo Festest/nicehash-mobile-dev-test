@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Test 1</string>
+    <string name="second_fragment_label">Test 2</string>
+    <string name="next">Next Test</string>
+    <string name="previous">Previous Test</string>
+    <string name="select_file">Select File</string>
+</resources>
