@@ -6,6 +6,8 @@ I spent around 7h on this project and started from an app template project provi
 
 *Note: I've included the test files used together with the app, and also a screen recording of the app's behaviour to the tests below.*
 
+*PS: I was selected but did not take the job offer.*
+
 ## Answer Test 1:
 The accumulator is 1087
 
