@@ -1,4 +1,4 @@
-# NiceHash Mobile Dev - Job Entervie Test
+# NiceHash Mobile Dev - Job Enterview Test
 **This is the application I made to pass NiceHash's Android Developer Job Interview.**
 
 To make this project I used the latest version of Android Studio for Windows 11, using the Kotlin compiler version 1.9.0.
